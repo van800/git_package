@@ -1,7 +1,18 @@
 {
   "name": "MyGitPackage",
   "displayName": "MyGitPackage",
-  "description": "Test.",
   "version": "1.0.0",
-  "unity": "2018.4"
+  "unity": "2018.4",
+  "unityRelease": "0a22",
+  "description": "Test.",
+  "keywords": [
+    "rider"
+  ],
+  "category": "Editor",
+  "dependencies": {},
+  "repository": {
+    "url": "https://github.com/van800/git_package.git",
+    "type": "git",
+    "revision": "fa825106f349f996acff22f718845eab46ca2d7c"
+  }
 }
