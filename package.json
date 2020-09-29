@@ -12,7 +12,6 @@
   "dependencies": {},
   "repository": {
     "url": "https://github.com/van800/git_package.git",
-    "type": "git",
-    "revision": "beb1dc227c4309ba6aba2fd2560d4d4579d8a183"
+    "type": "git"
   }
 }
